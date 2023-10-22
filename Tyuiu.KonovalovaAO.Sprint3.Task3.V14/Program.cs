@@ -15,7 +15,7 @@ namespace Tyuiu.KonovalovaAO.Sprint3.Task3.V14
             Console.Title = "Спринт #3 | Выполнила Коновалова А. О. /СМАРТб-23-1 ";
             Console.WriteLine("**************************************************************************");
             Console.WriteLine("* Спринт #3                                                              *");
-            Console.WriteLine("* Тема: Оператор цикла do-while                                           *");
+            Console.WriteLine("* Тема: Оператор цикла foreach                                           *");
             Console.WriteLine("* Задание #3                                                             *");
             Console.WriteLine("* Вариант #14                                                            *");
             Console.WriteLine("* выполнила: Коновалова Александра Олеговна | СМАРТб-23-1                *");
