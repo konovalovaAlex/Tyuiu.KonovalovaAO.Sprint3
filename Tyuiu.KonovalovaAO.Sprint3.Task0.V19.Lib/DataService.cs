@@ -10,6 +10,7 @@ namespace Tyuiu.KonovalovaAO.Sprint3.Task0.V19.Lib
     {
         public double GetSumSeries(int startValue, int stopValue)
         {
+            
             double sumSeries = 0;
             int i;
             for (i = startValue; i <= stopValue; i++)
