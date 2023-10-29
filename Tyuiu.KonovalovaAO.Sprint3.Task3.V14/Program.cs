@@ -35,9 +35,9 @@ namespace Tyuiu.KonovalovaAO.Sprint3.Task3.V14
             Console.WriteLine("Исходная строка = " + value);
             Console.WriteLine("Заменяемый символ = " + replacebale);
             Console.WriteLine("Заменяющий символ = " + replacement);
-            Console.WriteLine("******************************************************************************");
-            Console.WriteLine("* РЕЗУЛЬТАТ:                                                                 *");
-            Console.WriteLine("******************************************************************************");
+            Console.WriteLine("**************************************************************************");
+            Console.WriteLine("* РЕЗУЛЬТАТ:                                                             *");
+            Console.WriteLine("**************************************************************************");
             Console.WriteLine("Получившаяся строка = " + ds.ReplaceCharInString(value, replacebale, replacement));
             Console.ReadKey();
         }
